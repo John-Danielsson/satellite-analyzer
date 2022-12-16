@@ -1,2 +1,2 @@
-# Satellite Image Analzer (SIMAN)
+# Satellite Image Analyzer (SIMAN)
 This is my 1st major project. I am developing a program that uses a Convolutional Neural Network (CNN) to analyze satellite images and tell whether there are vehicles or buildings in the picture.
